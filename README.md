@@ -1,1 +1,2 @@
-# forsaken-script
+# Hi! This is my Roblox Forsaken script. I hope you like it.
+```loadstring(game:HttpGet('https://raw.githubusercontent.com/TemporaryLives/forsaken-script/refs/heads/main/Release.lua'))()```
